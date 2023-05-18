@@ -1,0 +1,323 @@
+[
+    {
+        "id": 101,
+        "collection_name": "Dunkin Donuts",
+        "collection_description": "Very good coffee",
+        "image": "/logos/images/dunkin.jpeg",
+        "user": "Duke Silver",
+        "coffees": [
+            {
+                "id": 122,
+                "brand_name": "Dunkin Donuts",
+                "image": "/logos/images/dunkin.jpeg",
+                "blend_name": "Breakfast Blend",
+                "roast_level": "Light",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Colombia",
+                    "Sumatra",
+                    "Brazil"
+                ],
+                "flavor_notes": [
+                    "chocolate",
+                    "hazelnut"
+                ],
+                "price": 19.22,
+                "bag_weight": "2 lb",
+                "organic_certification": false
+            },
+            {
+                "id": 151,
+                "brand_name": "Dunkin Donuts",
+                "image": "/logos/images/dunkin.jpeg",
+                "blend_name": "Peru Arabica",
+                "roast_level": "Medium",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Peru"
+                ],
+                "flavor_notes": [
+                    "caramel ",
+                    "brown sugar"
+                ],
+                "price": 21.79,
+                "bag_weight": "2 lb",
+                "organic_certification": false
+            },
+            {
+                "id": 109,
+                "brand_name": "Dunkin Donuts",
+                "image": "/logos/images/dunkin.jpeg",
+                "blend_name": "Colombia Arabica",
+                "roast_level": "Dark",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Colombia"
+                ],
+                "flavor_notes": [
+                    "orange",
+                    "red apple",
+                    "brown sugar"
+                ],
+                "price": 27.08,
+                "bag_weight": "2 lb",
+                "organic_certification": false
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "collection_name": "Peete's",
+        "collection_description": "OK coffee",
+        "image": "/logos/images/peetes.jpeg",
+        "user": "Duke Silver",
+        "coffees": [
+            {
+                "id": 176,
+                "brand_name": "Peet's Coffee",
+                "image": "/logos/images/peetes.jpeg",
+                "blend_name": "Select Blend",
+                "roast_level": "Light",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Colombia",
+                    "Peru",
+                    "Brazil"
+                ],
+                "flavor_notes": [
+                    "lemon",
+                    "lavender"
+                ],
+                "price": 24.82,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            },
+            {
+                "id": 144,
+                "brand_name": "Peet's Coffee",
+                "image": "/logos/images/peetes.jpeg",
+                "blend_name": "LATAM Blend",
+                "roast_level": "Medium",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Peru",
+                    "Honduras",
+                    "Brazil"
+                ],
+                "flavor_notes": [
+                    "lemon",
+                    "brown sugar"
+                ],
+                "price": 18.18,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            },
+            {
+                "id": 187,
+                "brand_name": "Peet's Coffee",
+                "image": "/logos/images/peetes.jpeg",
+                "blend_name": "Specialty Dark",
+                "roast_level": "Dark",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Colombia",
+                    "Brazil"
+                ],
+                "flavor_notes": [
+                    "chocolate",
+                    "lemon"
+                ],
+                "price": 24.35,
+                "bag_weight": "2 lb",
+                "organic_certification": false
+            },
+            {
+                "id": 184,
+                "brand_name": "Peet's Coffee",
+                "image": "/logos/images/peetes.jpeg",
+                "blend_name": "House Blend",
+                "roast_level": "Light",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Colombia",
+                    "Guatemala"
+                ],
+                "flavor_notes": [
+                    "cherry",
+                    "dark chocolate"
+                ],
+                "price": 25.37,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "collection_name": "Starbucks",
+        "collection_description": "Not good coffee",
+        "image": "/logos/images/sbux.jpeg",
+        "user": "Duke Silver",
+        "coffees": [
+            {
+                "id": 151,
+                "brand_name": "Starbucks",
+                "image": "/logos/images/sbux.jpeg",
+                "blend_name": "'Morning",
+                "roast_level": "Light",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Brazil"
+                ],
+                "flavor_notes": [
+                    "walnut",
+                    "cocoa"
+                ],
+                "price": 23.74,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            },
+            {
+                "id": 144,
+                "brand_name": "Starbucks",
+                "image": "/logos/images/sbux.jpeg",
+                "blend_name": "Pick me Up",
+                "roast_level": "Medium",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Brazil",
+                    "Colombia"
+                ],
+                "flavor_notes": [
+                    "dark chocolate"
+                ],
+                "price": 20.38,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            },
+            {
+                "id": 110,
+                "brand_name": "Starbucks",
+                "image": "/logos/images/sbux.jpeg",
+                "blend_name": "Breakfast in Bed",
+                "roast_level": "Light",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Brazil",
+                    "India"
+                ],
+                "flavor_notes": [
+                    "cinamon",
+                    "hazelnut"
+                ],
+                "price": 18.11,
+                "bag_weight": "2 lb",
+                "organic_certification": false
+            },
+            {
+                "id": 166,
+                "brand_name": "Starbucks",
+                "image": "/logos/images/sbux.jpeg",
+                "blend_name": "Dark Knight",
+                "roast_level": "Dark",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Colombia"
+                ],
+                "flavor_notes": [
+                    "brown sugar",
+                    "milk chocolate",
+                    "walnut"
+                ],
+                "price": 19.57,
+                "bag_weight": "2 lb",
+                "organic_certification": false
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "collection_name": "La Vela",
+        "collection_description": "Excelent coffee",
+        "user": "Duke Silver",
+        "image": "/logos/images/lavela.jpeg",
+        "coffees": [
+            {
+                "id": 102,
+                "brand_name": "La Vela Coffee",
+                "image": "/logos/images/lavela.jpeg",
+                "blend_name": "Gold Blend",
+                "roast_level": "Medium Dark",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Sumatra",
+                    "India"
+                ],
+                "flavor_notes": [
+                    "dark chocolate",
+                    "almond"
+                ],
+                "price": 22.1,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            },
+            {
+                "id": 188,
+                "brand_name": "La Vela Coffee",
+                "image": "/logos/images/lavela.jpeg",
+                "blend_name": "Select Blend",
+                "roast_level": "Light",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Guatemala",
+                    "Peru"
+                ],
+                "flavor_notes": [
+                    "cedar",
+                    "rasberry",
+                    "dark chocolate"
+                ],
+                "price": 21.87,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            },
+            {
+                "id": 140,
+                "brand_name": "La Vela Coffee",
+                "image": "/logos/images/lavela.jpeg",
+                "blend_name": "Brazil",
+                "roast_level": "Medium",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Brazil"
+                ],
+                "flavor_notes": [
+                    "cacao",
+                    "walnut"
+                ],
+                "price": 28.49,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            },
+            {
+                "id": 137,
+                "brand_name": "La Vela Coffee",
+                "image": "/logos/images/.jpeg",
+                "blend_name": "Colombia",
+                "roast_level": "Light",
+                "bean_type": "Arabica",
+                "countries": [
+                    "Colombia"
+                ],
+                "flavor_notes": [
+                    "lemon",
+                    "brown sugar",
+                    "milk chocolate"
+                ],
+                "price": 28.78,
+                "bag_weight": "2 lb",
+                "organic_certification": true
+            }
+        ]
+    }
+]

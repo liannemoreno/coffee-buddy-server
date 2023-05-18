@@ -1,0 +1,202 @@
+[
+    {
+        "id": 264,
+        "image": "/logos/images/Cezve.svg",
+        "brewing_technique": "Chemex",
+        "specs": [
+            {
+                "id": 201,
+                "ground_size": "Medium",
+                "coffee_amount": "10 g per 6oz of water",
+                "tools ": [
+                    "Chemex Filters",
+                    "Coffee Scale",
+                    "Kettle"
+                ],
+                "steps": [
+                    "Heat water to 205 ° F",
+                    "Prepare the filter",
+                    "Measure ground coffee",
+                    "Start your first pour in a circular motion",
+                    "After letting the coffee bloom, start your second pour",
+                    "Repeat step 4 again",
+                    "Remove filter and serve"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 258,
+        "image": "/logos/images/Espresso-machine.svg",
+        "brewing_technique": "Espresso",
+        "specs": [
+            {
+                "id": 202,
+                "ground_size": "Fine",
+                "coffee_amount": "8-10 g",
+                "tools ": [
+                    "Espresso machine",
+                    "Tamper",
+                    "Milk Frothing Pitcher"
+                ],
+                "steps": [
+                    "Pack and tamp coffee ground on the espresso basket",
+                    "Place portafiler in the machine and press button to pull the shot",
+                    "Let the coffee brew for 25-30 seconds",
+                    "Consider any adjustments",
+                    "Optional: pour milk into pitcher and froth milk"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 278,
+        "image": "/logos/images/French-press.svg",
+        "brewing_technique": "French Press",
+        "specs": [
+            {
+                "id": 203,
+                "ground_size": "Coarse",
+                "coffee_amount": "8 g per cup of water",
+                "tools ": [
+                    "French Press",
+                    "Hot Water"
+                ],
+                "steps": [
+                    "Add hot water into press",
+                    "Add desired amount of coffee into press",
+                    "Let it rest for 4 minutes",
+                    "Place the lid on the Press and press down on the plunger",
+                    "Serve and enjoy!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "image": "/logos/images/Mocha-pot.svg",
+        "brewing_technique": "Moka Pot",
+        "specs": [
+            {
+                "id": 204,
+                "ground_size": "Medium",
+                "coffee_amount": "20 g per cup of water",
+                "tools ": [
+                    "Moka Pot",
+                    "Spoon",
+                    "Stove"
+                ],
+                "steps": [
+                    "Add water to the bottom half until it reaches the valve",
+                    "Add coffee to the funnel",
+                    "Place pot over medium heat",
+                    "Wait 5-7 minutes while the coffee brews",
+                    "Pour into mug and enjoy!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "image": "/logos/images/Pour-over.svg",
+        "brewing_technique": "Pour Over",
+        "specs": [
+            {
+                "id": 205,
+                "ground_size": "Medium",
+                "coffee_amount": "10 g per 6oz of water",
+                "tools ": [
+                    "Pour over",
+                    "Pour over filters",
+                    "Kettle",
+                    "Stand"
+                ],
+                "steps": [
+                    "Heat water to 205 ° F",
+                    "Place filter on pour over",
+                    "Pour grounds on filter",
+                    "Wet your grounds untill bloomed",
+                    "Continue pouring until "
+                ]
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "image": "/logos/images/Cezve.svg",
+        "brewing_technique": "Turkish Cezve",
+        "specs": [
+            {
+                "id": 206,
+                "ground_size": "Extra Fine",
+                "coffee_amount": "30 g",
+                "tools ": [
+                    "Cezve",
+                    "Stove"
+                ],
+                "steps": [
+                    "Add water to the cezve",
+                    "Add sugar to taste",
+                    "Bring water to a boil",
+                    "Remove from heat and add one tablespoon of coffee per cup",
+                    "Bring back to the heat and boil the coffee",
+                    "Remove coffee from heat and remove the foam",
+                    "Repeat boiling process once more",
+                    "Remove from heat and serve"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "image": "/logos/images/Aeropress.svg",
+        "brewing_technique": "Aeropress",
+        "specs": [
+            {
+                "id": 207,
+                "ground_size": "Coarse or Medium",
+                "coffee_amount": "15 g",
+                "tools ": [
+                    "Aeropress",
+                    "Filters",
+                    "Kettle"
+                ],
+                "steps": [
+                    "Heat the water to 205 ° F",
+                    "Prep the filter",
+                    "Measure coffee and add it to the filter",
+                    "Start the brew by pouring 40g of water",
+                    "Pour again",
+                    "Attach the cap and invert the Aeropress",
+                    "Wait for the hiss",
+                    "Serve and enjoy!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "image": "/logos/images/Siphon.svg",
+        "brewing_technique": "Siphon",
+        "specs": [
+            {
+                "ground_size": "Medium",
+                "coffee_amount": "20-25 g",
+                "tools ": [
+                    "Filter"
+                ],
+                "steps": [
+                    "Prepare the filter",
+                    "Fill bottom component with 12 oz of hot water",
+                    "Insert the hopper, filter and all, into the bulb",
+                    "Weigh and grind your coffee",
+                    "Once the water has moved into the hopper, turn your heat down so that the water is between 185-195°",
+                    "Add your coffee, and gently submerge it with a butter knife",
+                    "Brew coffee for one minute and 10 seconds",
+                    "Remove your siphon from the heat and stir 10 times",
+                    "Pour coffee and enjoy"
+                ]
+            }
+        ]
+    }
+]
